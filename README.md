@@ -30,5 +30,9 @@ To uninstall RipCord:
 2. Restart your computer to ensure that the service is no longer running
 
 ---
+### Automator Version
+There is also an Automator Version fo this script. Download the [zip file](https://github.com/kclose3/RipCord/blob/f75cf2cacd4dcd2e5d2c113e1e8755fcc9afba47/RipCord.zip) and extract the Applet. There is no UI for this application. This version does not run perpetually like the script versin. Instead, When you want to protect your computer, run this Applet and insert a USB drive with the name *RipCord* to engage the monitor. You can tell it is running from the spinning gear on the Menu Bar. This version automatically quits when the USB drive is removed after the computer is put to sleep. To end the monitor manually, click on the spinning gear in the Menu Bar, and click the "X" next to RipCord in the drop down menu.
+
+---
 ChangeLog
 - 2025.03.20	-	Initial Commit
