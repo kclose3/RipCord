@@ -19,6 +19,7 @@
 #
 #	Requirements:
 #		You must set your Security & Privacy preferences to "Require password *immedialy* after sleep or screen saver begins.
+#		You must have a USB Drive specifically named "RipCord" as your trigger. The contents of the drive do not matter.
 #
 ######################################################################################################################################
 
