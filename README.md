@@ -11,7 +11,7 @@ This script will install the following files:
 To uninstall RipCord, simply delete the above listed files.
 
 ChangeLog
-	2025.03.20	-	Initial Commit
+- 2025.03.20	-	Initial Commit
 
 Requirements:
 - You must set your Security & Privacy preferences to "Require password **Immediately** after sleep or screen saver begins.
