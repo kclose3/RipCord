@@ -16,13 +16,17 @@ This script will install the following files:
 - ~/Library/Scripts/KClose3Scripts/com.kclose3.ripcord.sh
 - ~/Library/LaunchAgents/com.kclose3.ripcord.plist
 
-To install RipCord, first download the [Install Script](https://github.com/kclose3/RipCord/blob/72ece31c56cca98751c5962174ba415c03544a78/Ripcord.sh). Open Terminal and run the install script to complete the installation and start the USB monitor.
+To install RipCord:
+1. Download the [Install Script](https://github.com/kclose3/RipCord/blob/72ece31c56cca98751c5962174ba415c03544a78/Ripcord.sh)
+2. Open Terminal and run the install script to complete the installation and start the USB monitor
+3. Set your Security & Privacy preferences to "Require password **Immediately** after sleep or screen saver begins
+4. Rename a USB drive as *RipCord*
+
+To use RipCord:<br>
+RipCord starts running upon installation and will launch automatically at every system startup. Inserting the *RipCord* USB drive will "arm" the system. The next time the drive is removed, the computer will go to sleep.
 
 To uninstall RipCord, simply delete the above listed files.
 
-Requirements:
-- You must set your Security & Privacy preferences to "Require password **Immediately** after sleep or screen saver begins.
-- You must also have a USB drive specifically named *RipCord* as your trigger device. 
 ---
 ChangeLog
 - 2025.03.20	-	Initial Commit
