@@ -19,7 +19,7 @@ This script will install the following files:
 To install RipCord:
 1. Download the [Install Script](https://github.com/kclose3/RipCord/blob/72ece31c56cca98751c5962174ba415c03544a78/Ripcord.sh)
 2. Open Terminal and run the install script to complete the installation and start the USB monitor
-3. Set your Security & Privacy preferences to "Require password **Immediately** after sleep or screen saver begins
+3. Set your Security & Privacy preferences to "Require password **Immediately** after sleep or screen saver begins"
 4. Rename a USB drive as *RipCord*
 
 To use RipCord:<br>
