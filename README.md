@@ -26,7 +26,8 @@ To use RipCord:<br>
 RipCord starts running upon installation and will launch automatically at every system startup. Inserting the *RipCord* USB drive will "arm" the system. The next time the drive is removed, the computer will go to sleep.
 
 To uninstall RipCord:
-- Delete the two files noted above
+1. Delete the two files noted above
+2. Restart your computer to ensure that the service is no longer running
 
 ---
 ChangeLog
