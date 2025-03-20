@@ -1,4 +1,4 @@
-RipCord - Automatically Sleep when Drive is Remvoved
+RipCord - Automatically Sleep when Drive is Removed
 	v0.1.1-alpha
 
 Written By KClose
