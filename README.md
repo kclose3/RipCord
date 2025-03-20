@@ -1,10 +1,10 @@
-RipCord - Automatically Sleep when Drive is Removed
+RipCord - Automatically Sleep when Drive is Removed\
 	v0.1.1-alpha
 
-Written By KClose
+Written By KClose\
 	Based on an idea by reddit user u/SATLTSADWFZ
 
-This script will install the following files:
+This script will install the following files:\
 	~/Library/Scripts/KClose3Scripts/com.kclose3.ripcord.sh
 	~/Library/LaunchAgents/com.kclose3.ripcord.plist
 
