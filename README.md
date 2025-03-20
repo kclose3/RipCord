@@ -14,5 +14,5 @@ ChangeLog
 	2025.03.20	-	Initial Commit
 
 Requirements:
-	You must set your Security & Privacy preferences to "Require password **Immediately** after sleep or screen saver begins.
- 	You must also have a USB drive specifically named *RipCord* as your trigger device. 
+- You must set your Security & Privacy preferences to "Require password **Immediately** after sleep or screen saver begins.
+- You must also have a USB drive specifically named *RipCord* as your trigger device. 
