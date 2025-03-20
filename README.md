@@ -16,6 +16,8 @@ This script will install the following files:
 - ~/Library/Scripts/KClose3Scripts/com.kclose3.ripcord.sh
 - ~/Library/LaunchAgents/com.kclose3.ripcord.plist
 
+To install RipCord, first download the [Install Script](https://github.com/kclose3/RipCord/blob/72ece31c56cca98751c5962174ba415c03544a78/Ripcord.sh). Open Terminal and run the install script to complete the installation and start the USB monitor.
+
 To uninstall RipCord, simply delete the above listed files.
 
 Requirements:
